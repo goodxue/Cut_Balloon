@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/zed/include",
+                "/opt/ros/kinetic/include",
+                "/usr/local/cuda-9.0/include",
+                "/home/xue/opencv3.41/sources/include",
+                "${workspaceFolder}/include/cut_balloon",
+                "${workspaceFolder}/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
